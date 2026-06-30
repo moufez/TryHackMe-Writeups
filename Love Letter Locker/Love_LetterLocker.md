@@ -4,14 +4,7 @@
 ## Target
 
 TryHackMe Room:
-https://tryhackme.com/room/neighbour
-
-
-## Target
-
-TryHackMe Room:
-[https://tryhackme.com/room/neighbour](https://tryhackme.com/room/lafb2026e2)
-
+https://tryhackme.com/room/lafb2026e2
 
 
 ## Summary
