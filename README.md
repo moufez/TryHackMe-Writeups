@@ -10,6 +10,7 @@ These writeups cover penetration testing, web vulnerabilities, enumeration techn
 |------|----------|---------|
 | [Corridor](https://tryhackme.com/room/corridor) | IDOR / Access Control | [Read Writeup](./Corridor/Corridor_writeup.md) |
 | [Neighbour](https://tryhackme.com/room/neighbour) | IDOR / Access Control | [Read Writeup](./Neighbour/Neighbour_writeup.md) |
+| [Love Letter Locker](https://tryhackme.com/room/lafb2026e2) | IDOR / Access Control | [Read Writeup](./Love%20Letter%20Locker/Love_LetterLocker.md) |
 
 ## 🛠️ Topics Covered
 
