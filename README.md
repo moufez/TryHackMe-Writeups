@@ -30,27 +30,6 @@ These writeups cover penetration testing, web vulnerabilities, enumeration techn
 
 This repository is used to document my progress in cybersecurity, practice security concepts, improve my penetration testing skills, and share knowledge with others.
 
-## 📁 Repository Structure
-
-
-```text
-TryHackMe-Writeups/
-│
-├── README.md
-│
-├── Corridor/
-│   └── Corridor_writeup.md
-│
-├── Neighbour/
-│   └── Neighbour_writeup.md
-│
-├── Love Letter Locker/
-│   └── Love_LetterLocker.md
-│
-└── ValenFind/
-    └── ValenFind_writeup.md
-```
-
 ## ⚠️ Disclaimer
 
 All writeups are created for educational purposes only.
