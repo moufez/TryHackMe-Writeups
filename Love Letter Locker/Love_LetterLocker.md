@@ -1,6 +1,19 @@
 # Horizontal IDOR in Love Letter Locker Allows Unauthorized Access to Other Users' Private Letters
 
 
+## Target
+
+TryHackMe Room:
+https://tryhackme.com/room/neighbour
+
+
+## Target
+
+TryHackMe Room:
+[https://tryhackme.com/room/neighbour](https://tryhackme.com/room/lafb2026e2)
+
+
+
 ## Summary
 
 A Horizontal IDOR (Insecure Direct Object Reference) vulnerability exists in the Love Letter Locker web application, allowing authenticated users to access private letters belonging to other users by modifying the letter ID parameter in the URL.
