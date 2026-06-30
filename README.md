@@ -9,6 +9,7 @@ These writeups cover penetration testing, web vulnerabilities, enumeration techn
 | Room | Category | Writeup |
 |------|----------|---------|
 | Corridor | IDOR / Access Control | [Read Writeup](./Corridor/Corridor_writeup.md) |
+| Neighbour | Web Exploitation / Enumeration | [Read Writeup](./Neighbour/Neighbour_writeup.md) |
 
 ## 🛠️ Topics Covered
 
