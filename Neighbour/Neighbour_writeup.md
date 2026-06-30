@@ -1,5 +1,12 @@
 ## IDOR Allows Privilege Escalation by Manipulating the user URL Parameter
 
+
+## Target
+
+TryHackMe Room:
+https://tryhackme.com/room/neighbour
+
+
 ## Summary
 
 An Insecure Direct Object Reference (IDOR) vulnerability exists in the `user` query parameter of the `profile.php` endpoint. By changing the parameter value from `guest` to `admin`, an attacker can gain unauthorized administrative access because the application does not properly validate user authorization on the server side. This vulnerability can lead to privilege escalation and unauthorized access to sensitive functionality.
