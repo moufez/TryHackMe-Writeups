@@ -1,5 +1,9 @@
 # IDOR in Corridor Allows Unauthorized Access to Hidden Pages via Predictable MD5 References
 
+## Target
+
+TryHackMe Room:
+https://tryhackme.com/room/corridor
 
 ## Summary
 
