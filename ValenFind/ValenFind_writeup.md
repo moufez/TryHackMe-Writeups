@@ -1,5 +1,12 @@
 # Local File Inclusion Leads to Source Code Disclosure and Database Exposure via Hardcoded Admin API Key
 
+## Target
+
+TryHackMe Room:
+https://tryhackme.com/room/lafb2026e10
+
+
+
 ## Summary
 
 A Local File Inclusion (LFI) vulnerability exists in the `/api/fetch_layout` endpoint of the ValenFind application. By manipulating the `layout` parameter, an attacker can read arbitrary local files from the server.
