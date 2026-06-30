@@ -32,6 +32,8 @@ This repository is used to document my progress in cybersecurity, practice secur
 
 ## 📁 Repository Structure
 
+
+```text
 TryHackMe-Writeups/
 │
 ├── README.md
@@ -46,7 +48,8 @@ TryHackMe-Writeups/
 │   └── Love_LetterLocker.md
 │
 └── ValenFind/
-└── ValenFind_writeup.md
+    └── ValenFind_writeup.md
+```
 
 ## ⚠️ Disclaimer
 
